@@ -16,3 +16,9 @@ The BOM folder contains a list of all components required for this build excludi
 ## Drawings
 The drawings folder in this repository contains drawings to the key components in the elbow joint. These were the components that were machined out of aluminum and steel (for the motor adapter flanges). Other parts were 3D printed. These parts with drawings will not have drawings in onshape since the original design was done on SOLIDWOKRS. Halfway through the project my computer died and I switch to onshape. Thus, these drawings preserve the mechancial details in full of these critical parts.
 
+## Images
+Some images of the design.
+
+![exploded_elbow image](/images/exploded_elbow.png)
+
+![exploded_elbow image](/images/exploded_electrical_mounting.png)
