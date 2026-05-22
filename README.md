@@ -10,6 +10,9 @@ Access the full assembly on Onshape after making a free account at this [link](h
 
 The STEP file in this repo contains the same files, although does not preserve the assembly relations.
 
+## Bill of Materials
+The BOM folder contains a list of all components required for this build excluding the stock required to manufacture the parts.
+
 ## Drawings
 The drawings folder in this repository contains drawings to the key components in the elbow joint. These were the components that were machined out of aluminum and steel (for the motor adapter flanges). Other parts were 3D printed. These parts with drawings will not have drawings in onshape since the original design was done on SOLIDWOKRS. Halfway through the project my computer died and I switch to onshape. Thus, these drawings preserve the mechancial details in full of these critical parts.
 
